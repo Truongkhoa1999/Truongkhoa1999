@@ -1,6 +1,1 @@
-TRUONG DANG KHOA - WEB DESIGNER & GRAPHIC DESIGNER
-TO HANDS ON WITH DEVELOPER, I TRANSLATE MY DESIGN TO CODING LINES.
-MY PROFESSIONAL LANGUAGES ARE HTML CSS JS, And Framework ReactJS
-
-Personal email: khoatruong@truongkhoaportfolio.com
-Portfolio: truongkhoaportfolio.com
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
