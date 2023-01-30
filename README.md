@@ -6,6 +6,7 @@
 
 ## 📜 Qualification
 - 🎫 Bachelor of Business Information Technology
+- 🎫 Studying at Integrify Academy
 - 🎫 Fit to web project by Mehtaheino
 - 🎫 Dizistar internship as a Wordpress site modifier
 - 🎫 Freecodecamp Legacy Responsive Web Design
